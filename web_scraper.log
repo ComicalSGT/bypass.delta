@@ -1,0 +1,39 @@
+2024-11-14 15:09:35,471 - INFO - Starting download for https://bypass.delta.kozow.com/ into extracted
+2024-11-14 15:09:35,483 - DEBUG - Starting new HTTPS connection (1): bypass.delta.kozow.com:443
+2024-11-14 15:09:35,782 - DEBUG - https://bypass.delta.kozow.com:443 "GET / HTTP/11" 200 None
+2024-11-14 15:09:35,798 - INFO - Created directory extracted\bypass.delta.kozow.com
+2024-11-14 15:09:35,803 - INFO - Saved page https://bypass.delta.kozow.com/ to extracted\bypass.delta.kozow.com/index.html
+2024-11-14 15:09:35,810 - DEBUG - Starting new HTTPS connection (1): i.imgur.com:443
+2024-11-14 15:09:35,970 - DEBUG - https://i.imgur.com:443 "GET /4iSyogk.jpeg HTTP/11" 429 0
+2024-11-14 15:09:35,971 - ERROR - Error saving resource https://i.imgur.com/4iSyogk.jpeg: 429 Client Error: Unknown Error for url: https://i.imgur.com/4iSyogk.jpeg
+2024-11-14 15:09:35,973 - DEBUG - Starting new HTTPS connection (1): cdn.jsdelivr.net:443
+2024-11-14 15:09:36,165 - DEBUG - https://cdn.jsdelivr.net:443 "GET /particles.js/2.0.0/particles.min.js HTTP/11" 200 5958
+2024-11-14 15:09:36,170 - INFO - Successfully saved resource https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js
+2024-11-14 15:09:36,173 - DEBUG - Starting new HTTPS connection (1): static.staticsave.com:443
+2024-11-14 15:09:36,283 - DEBUG - https://static.staticsave.com:443 "GET /dzshadow/jstop.js HTTP/11" 200 None
+2024-11-14 15:09:36,285 - INFO - Successfully saved resource https://static.staticsave.com/dzshadow/jstop.js
+2024-11-14 15:09:36,290 - DEBUG - Starting new HTTPS connection (1): bypass.delta.kozow.com:443
+2024-11-14 15:09:36,396 - DEBUG - https://bypass.delta.kozow.com:443 "GET /js/cookienotice.js HTTP/11" 200 None
+2024-11-14 15:09:36,399 - INFO - Successfully saved resource https://bypass.delta.kozow.com/js/cookienotice.js
+2024-11-14 15:09:36,403 - DEBUG - Starting new HTTPS connection (1): www.blogger.com:443
+2024-11-14 15:09:36,517 - DEBUG - https://www.blogger.com:443 "GET /static/v1/widgets/4009268638-widgets.js HTTP/11" 200 52168
+2024-11-14 15:09:36,540 - INFO - Successfully saved resource https://www.blogger.com/static/v1/widgets/4009268638-widgets.js
+2024-11-14 15:09:36,545 - DEBUG - Starting new HTTPS connection (1): cdn.jsdelivr.net:443
+2024-11-14 15:09:36,681 - DEBUG - https://cdn.jsdelivr.net:443 "GET /npm/sweetalert2@11 HTTP/11" 200 19225
+2024-11-14 15:09:36,696 - INFO - Successfully saved resource https://cdn.jsdelivr.net/npm/sweetalert2@11
+2024-11-14 15:09:36,700 - DEBUG - Starting new HTTPS connection (1): static.staticsave.com:443
+2024-11-14 15:09:36,790 - DEBUG - https://static.staticsave.com:443 "GET /dzshadow/web.js HTTP/11" 200 None
+2024-11-14 15:09:36,793 - INFO - Successfully saved resource https://static.staticsave.com/dzshadow/web.js
+2024-11-14 15:09:36,797 - DEBUG - Starting new HTTPS connection (1): static.staticsave.com:443
+2024-11-14 15:09:36,881 - DEBUG - https://static.staticsave.com:443 "GET /dzshadow/html.js HTTP/11" 200 None
+2024-11-14 15:09:36,885 - INFO - Successfully saved resource https://static.staticsave.com/dzshadow/html.js
+2024-11-14 15:09:36,888 - DEBUG - Starting new HTTPS connection (1): www.blogger.com:443
+2024-11-14 15:09:36,971 - DEBUG - https://www.blogger.com:443 "GET /static/v1/widgets/55013136-widget_css_bundle.css HTTP/11" 200 6620
+2024-11-14 15:09:36,974 - INFO - Successfully saved resource https://www.blogger.com/static/v1/widgets/55013136-widget_css_bundle.css
+2024-11-14 15:09:36,977 - DEBUG - Starting new HTTPS connection (1): www.googletagmanager.com:443
+2024-11-14 15:09:37,126 - DEBUG - https://www.googletagmanager.com:443 "GET /gtag/js?id=G-N847RF3W14 HTTP/11" 200 None
+2024-11-14 15:09:37,182 - INFO - Successfully saved resource https://www.googletagmanager.com/gtag/js?id=G-N847RF3W14
+2024-11-14 15:09:37,184 - DEBUG - Starting new HTTPS connection (1): static.staticsave.com:443
+2024-11-14 15:09:37,271 - DEBUG - https://static.staticsave.com:443 "GET /dzshadow/url.js HTTP/11" 200 None
+2024-11-14 15:09:37,278 - INFO - Successfully saved resource https://static.staticsave.com/dzshadow/url.js
+2024-11-14 15:09:37,280 - INFO - Website downloaded successfully.
